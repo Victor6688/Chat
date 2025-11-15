@@ -1,0 +1,5 @@
+#dialog{position:absolute; transform: rotate(-30deg); margin-left:200px; z-index:2}
+#chatcontainer{position:absolute; width:1000px; height:680px; background-color:lightblue; overflow:auto; border: 5px solid black; margin-top:0px; margin-left:450px; z-index:1}
+#TextBox{border-radius:50px; position:absolute; top:720px; left:800px}
+#TextBox2{border-radius:50px; position:absolute; top:770px; left:800px}
+#button1{position:absolute; top:770px; left:1090px; border-top-right-radius:50px; border-bottom-right-radius:50px}
